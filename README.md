@@ -1,2 +1,7 @@
-# genre_NLP
-i iterated over 1 million+ words contained in blurbs of books to help check for similarities between genres using Natural Language Processing.
+# Similarity between Genres using Natural Language Processing
+
+In this repository I tried to answer two questions:
+- Do blurbs represent a book properly
+- Similarities between different genres of books/novels usinmg Natural Language Processing.
+
+

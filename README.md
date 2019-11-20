@@ -41,5 +41,9 @@ A lot more deductions were made (more details in code sheet) from the  most comm
 
 
 ## Similarities between different genres of books/novels using Natural Language Processing.
-How similar are these genres? Which is most similar? Which is least similar? Since blurbs are avid representation of whole books, they can be used to calculate similarities bewteen these categories. In this readme, I will focus only on the similarities between religion and the remaining categories of books
-[Jaccard similarity](https://en.wikipedia.org/wiki/Jaccard_index) was used in calculating similarities between each category.
+How similar are these genres? Which is most similar? Which is least similar? Since blurbs are avid representation of whole books, they can be used to calculate similarities bewteen these categories. In this readme, I will focus only on the similarities between religion and the remaining categories of books.
+
+[Jaccard similarity](https://en.wikipedia.org/wiki/Jaccard_index) was used in calculating similarities between each category. To visualize this similarity, a donut plot was used.
+
+![](https://github.com/EdidiongEsu/genre_NLP/blob/master/img/jaccardPlot.jpg)
+Excluding self similarity of religion to religion, religion is most similar to self help(motivational books) by approximately 34%. This strengthens a deduction that was made above that motivation/success/prosperity is usually linked with the religious/spiritual aspects of life.

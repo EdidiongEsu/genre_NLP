@@ -34,11 +34,12 @@ A lot more deductions were made (more details in code sheet) from the  most comm
 * There are a lot of repeated words throughout the genres. The drastic difference between the total length of words in the norm_blurb and the Number of unique words explains this.
 * God, christ,Jesus are the most common 10 words in the religious category. This was somewhat expected. It might also suggest that a lot of religious books are of christian religion.
 * Success is mentioned a lot in self help books (also known as motivational books) which tend to preach motivate/ give tips for prosperity.
-* God is the 10th most common word in SELF HELP(MOTIVATIONAL) BOOKS. This suggest that success is sometimes linked with spiritual aspects of life.
+* God is the 10th most common word in **SELF HELP(MOTIVATIONAL) BOOKS**. This suggest that success is sometimes linked with spiritual aspects of life.
 * Love is the most common word in the romance genre. This concludes that blurbs are indeed an avid representation of the romance genre.
 * Some of the words suggest there are many words with conjugtions, example dont's used in the blurb content
 * There are more lexical terms in the religious books blurb/description which suggests that the average length of the number of words per book might be longer than the others. To look further into this, A function was created to calculate the average length of words per blurb.
 
 
 ## Similarities between different genres of books/novels using Natural Language Processing.
-How similar are these genres? Which is most similar? Which is least similar? Since blurbs are avid representation of whole novels, they can be used to calculate similarities bewteen genres.
+How similar are these genres? Which is most similar? Which is least similar? Since blurbs are avid representation of whole books, they can be used to calculate similarities bewteen these categories. In this readme, I will focus only on the similarities between religion and the remaining categories of books
+[Jaccard similarity](https://en.wikipedia.org/wiki/Jaccard_index) was used in calculating similarities between each category.

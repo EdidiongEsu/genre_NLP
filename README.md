@@ -46,4 +46,6 @@ How similar are these genres? Which is most similar? Which is least similar? Sin
 [Jaccard similarity](https://en.wikipedia.org/wiki/Jaccard_index) was used in calculating similarities between each category. To visualize this similarity, a donut plot was used.
 
 ![](https://github.com/EdidiongEsu/genre_NLP/blob/master/img/jaccardPlot.jpg)
+
+
 Excluding self similarity of religion to religion, religion is most similar to self help(motivational books) by approximately 34%. This strengthens a deduction that was made above that motivation/success/prosperity is usually linked with the religious/spiritual aspects of life.

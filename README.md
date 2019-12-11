@@ -27,7 +27,7 @@ From my results, I went with romance, religious, self_help (also called Motivati
   
  ![most common words](https://github.com/EdidiongEsu/genre_NLP/blob/master/img/most_common_words.PNG)
   
-  When a person looks for a romantic novel, he/she is looking for some kind of **LOVE** story. For religious books, it is inevitabe not to see words like **GOD**, **CHURCH**. Most motivational books(self help) usually talk about tips on how to be **SUCCESSFULL** within a span of **TIME**. A fiction is the easiest terms is some kind of **STORY**.
+  When a person looks for a romantic novel, he/she is looking for some kind of **LOVE** story. For religious books, it is inevitabe not to see words like **GOD**, **CHURCH**. Most motivational books(self help) usually talk about tips on how to be **SUCCESSFUL** within a span of **TIME**. Fiction in the easiest terms is some kind of **STORY**.
 
 #### Quick deductions
 A lot more deductions were made (more details in code sheet) from the  most common words in the genres:

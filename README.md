@@ -1,7 +1,7 @@
 # Similarity between genres by analyzing blurbs using Natural Language Processing
 
 ## Key Terms:
-**Blurb:** A blurb is a short description of a book, film, or other product written for promotional purposes.
+**Blurb:** A blurb is a short description of a book, film, or other product written for promotional purposes. Book blurbs are usually around 200 words.
 
 **Genre:** A style or category of literature. In this repository genre is used interchangeably with category of books(including non-fiction). This is an EDA done on the data gotten from scraping okadabooks, an e-book store. More details on the webcrawler [here](https://github.com/EdidiongEsu/okadabooks_scraper). 
 

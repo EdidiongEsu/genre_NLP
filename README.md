@@ -1,4 +1,4 @@
-# Similarities between genres by analyzing blurbs using Natural Language Processing
+# Similarity between genres by analyzing blurbs using Natural Language Processing
 
 ## Key Terms:
 **Blurb:** A blurb is a short description of a book, film, or other product written for promotional purposes. Book blurbs are usually short, A little above 100 words.
